@@ -1,0 +1,3 @@
+[submodule "webstack-hugo"]
+	path = webstack-hugo
+	url = https://github.com/iplaycode/webstack-hugo.git
