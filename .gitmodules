@@ -1,6 +1,4 @@
 [submodule "webstack-hugo"]
 	path = webstack-hugo
 	url = https://github.com/iplaycode/webstack-hugo.git
-[submodule "themes/WebStack"]
-	path = themes/WebStack
-	url = https://github.com/iplaycode/webstack-hugo.git
+	
