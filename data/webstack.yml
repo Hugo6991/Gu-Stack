@@ -4,81 +4,69 @@
   icon: fa-star
   links: 
     - title: Google 
-      logo: assets/images/logos/dribbble.png
-      url: https://dribbble.com/
+      logo: assets/images/logos/google.png
+      url: https://www.google.com
       description: 全球市佔率 90% 的搜尋引擎，產品包含廣告、雲計算、信箱及協作工具等。
     - title: Figma
-      logo: assets/images/logos/behance.png
-      url: https://behance.net/
+      logo: assets/images/logos/figma.png
+      url: https://www.figma.com/
       description: 實時線上協作的 UI、UX 設計軟體，也適合簡單製圖和個人畫布，掌握 Auto Layout、Component、Plug-in 就贏 50% 以上的使用者
     - title: Notion
-      qrcode: assets/images/webstack-hugo-qrcode.png
-      logo: assets/images/favicon.png
+      qrcode: assets/images/notion.png
+      logo: assets/images/logos/notion.png
       description: 一站式任務管理、筆記軟體、生產力工具；適合小團隊專案、個人知識管理，學習資源推薦看少數派文章和課程
     - title: Youtube
-      logo: assets/images/logos/uicn.png
-      url: https://www.ui.cn/
+      logo: assets/images/logos/youtube.png
+      url: https://www.youtube.com/
       description: 最多元的影音平台，更是學習知識、工具、掌握新技能的門道
     - title: 得到 APP
-      logo: assets/images/logos/zcool.png
-      url: https://www.zcool.com.cn/
+      logo: assets/images/logos/dedao.png
+      url: https://www.dedao.cn/
       description: 亞洲最大的知識付費平台，每日 10 分鐘的得到頭條和精選，足以拓展認知邊界；每個內容的結構、堆砌、用字非常精煉且總是包含案例；音檔 + 文字的吸收很高效，最高支援 3 倍速
     - title: ChatGPT
-      logo: assets/images/logos/pinterest.png
-      url: https://www.pinterest.com/
+      logo: assets/images/logos/chatgpt.png
+      url: https://chat.openai.com/
       description: 基於 GPT 模型的 AI 交流平台，文章撰寫、翻譯、靈感利器；適合作為啟發你想法的導師，但對其回答應保持懷疑    
 
-- taxonomy: 社区咨询
+- taxonomy: Note Taking 筆記軟體
   icon: fa-newspaper-o
   links: 
-    - title: 雷锋网
-      logo: assets/images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
-    - title: 36kr
-      logo: assets/images/logos/36kr.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
-    - title: 数英网
-      logo: assets/images/logos/digitaling.png
-      url: https://www.digitaling.com/
-      description: 数字媒体及职业招聘网站
-    - title: 猎云网
-      logo: assets/images/logos/lieyunwang.png
-      url: https://www.lieyunwang.com/
-      description: 互联网创业项目推荐和创业创新资讯
-    - title: 人人都是产品经理
-      logo: assets/images/logos/woshipm.png
-      url: http://www.woshipm.com/
-      description: 产品经理、产品爱好者学习交流平台
-    - title: 互联网早读课
-      logo: assets/images/logos/zaodula.png
-      url: https://www.zaodula.com/
-      description: 互联网行业深度阅读与学习平台
-    - title: 产品壹佰 
-      logo: assets/images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-    - title: PMCAFF
-      logo: assets/images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 中国第一产品经理人气组织，专注于研究互联网产品
-    - title: 爱运营
-      logo: assets/images/logos/iyunying.png
-      url: http://www.iyunying.org/
-      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-    - title: 鸟哥笔记
-      logo: assets/images/logos/niaogebiji.png
-      url: http://www.niaogebiji.com/
-      description: 移动互联网第一干货平台
-    - title: 古田路9号
-      logo: assets/images/logos/gtn9.png
-      url: http://www.gtn9.com/
-      description: 国内专业品牌创意平台
-    - title: 优阁网
-      logo: assets/images/logos/uigreat.png
-      url: http://www.uigreat.com/
-      description: UI设计师学习交流社区
+    - title: Notion
+      logo: assets/images/logos/notion.png
+      url: https://www.notion.so/
+      description: 一站式協作工具，適用於個人筆記、項目管理等多元場景「 Database 」功能是上手 Notion 的關鍵
+    - title: Roam Research
+      logo: assets/images/logos/roamresearch.png
+      url: https://roamresearch.com/
+      description: 雙鏈筆記始祖，最流暢的筆記輸入體驗。作為 2 年用戶的 Roam Believer 評價在同類產品的筆記、誇裝置同步、輸入體驗仍是最好
+    - title: Heptabase
+      logo: assets/images/logos/heptabase.png
+      url: https://heptabase.com/
+      description: 主打白板式的筆記方式，致力打造高效的學習軟體，近期 Product Hunt 第一名，僅有付費版
+    - title: Craft
+      logo: assets/images/logos/craft.png
+      url: https://www.craft.do/
+      description: 文檔輸入體驗接近 Notion 的軟體，區塊做輸入單位的體驗，和 Notoin 相似，最大特色是美觀的漸層色文字
+    - title: My mind
+      logo: assets/images/logos/mymind.png
+      url: https://mymind.com/
+      description: 適合作為你的數位倉庫，快速截取網頁、圖片並用 AI 生成摘要的資訊消化工具
+    - title: Logseq
+      logo: assets/images/logos/logseq.png
+      url: https://logseq.com/
+      description: 免費的雙鏈筆記，體驗和界面都極似 Roam，但在誇裝置同步上效率不足，優勢在同步 Obsidian 插件生態
+    - title: Obsidian
+      logo: assets/images/logos/obsidian.png
+      url: https://obsidian.md/
+      description: 更偏向工程師的筆記軟體，豐富的插件生態，但輸入體驗仍遜於 Roam , Logseq
+    - title: Google Docs
+      logo: assets/images/logos/google docs.png
+      url: https://www.google.com/docs/about/
+      description: Google 原生的線上協作文檔。共享權限、版本記錄、通用格式等功能，使它仍是多人同步編輯文章的首選
+    - title: Apple Note
+      logo: assets/images/logos/apple note.png
+      url: https://www.icloud.com/notes
+      description: Apple 原生計事本，多裝置同步且開啟最及時，最適合用手機 or iPad 快速捕捉靈感和記錄想法
     
 
 - taxonomy: 灵感采集
@@ -129,66 +117,6 @@
           logo: assets/images/logos/AndroidNiceties.png
           url: https://androidniceties.tumblr.com/
           description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
-      
-    - term: 网页灵感
-      links:
-        - title: Awwwards
-          logo: assets/images/logos/awwwards.png
-          url: https://www.awwwards.com/
-          description: Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
-        - title: CSS Design Awards
-          logo: assets/images/logos/CSSDesignAwards.png
-          url: https://www.cssdesignawards.com/
-          description: Website Awards & Inspiration - CSS Gallery
-        - title: The FWA
-          logo: assets/images/logos/fwa.png
-          url: https://thefwa.com/
-          description: FWA - showcasing innovation every day since 2000
-        - title: Ecommercefolio
-          logo: assets/images/logos/Ecommercefolio.png
-          url: http://www.ecommercefolio.com/
-          description: Only the Best Ecommerce Design Inspiration
-        - title: Lapa
-          logo: assets/images/logos/Lapa.png
-          url: http://www.lapa.ninja/
-          description: The best landing page design inspiration from around the web.
-        - title: Reeoo
-          logo: assets/images/logos/reeoo.png
-          url: http://reeoo.com/
-          description: web design inspiration and website gallery
-        - title: Designmunk
-          logo: assets/images/logos/designmunk.png
-          url: https://designmunk.com/
-          description: Best Homepage Design Inspiration
-        - title: Best Websites Gallery
-          logo: assets/images/logos/BWG.png
-          url: https://bestwebsite.gallery/
-          description: Website Showcase Inspiration | Best Websites Gallery
-        - title: Pages
-          logo: assets/images/logos/pages.png
-          url: http://www.pages.xyz/
-          description: Curated directory of the best Pages
-        - title: SiteSee
-          logo: assets/images/logos/SiteSee.png
-          url: https://sitesee.co/
-          description: SiteSee is a curated gallery of beautiful, modern websites collections.
-        - title: Site Inspire
-          logo: assets/images/logos/siteInspire.png
-          url: https://www.siteinspire.com/
-          description: A CSS gallery and showcase of the best web design inspiration.
-        - title: WebInspiration
-          logo: assets/images/logos/WebInspiration.png
-          url: http://web.uedna.com/
-          description: 网页设计欣赏,全球顶级网页设计
-        - title: navnav
-          logo: assets/images/logos/navnav.png
-          url: https://navnav.co/
-          description: A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web.
-        - title: Really Good UX
-          logo: assets/images/logos/ReallyGoodUX.png
-          url: https://www.reallygoodux.io/
-          description: A library of screenshots and examples of really good UX. Brought to you by
-
       
 - taxonomy: 素材资源
   icon: fa-thumbs-up
