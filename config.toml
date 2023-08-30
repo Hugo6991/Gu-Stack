@@ -10,6 +10,6 @@ copyright = ""
   author = "iplaycode"
   description = "webstack hugo"
 [params.search]
-  enable = true
+  enable = false
 [params.darkmode]
   enable = false

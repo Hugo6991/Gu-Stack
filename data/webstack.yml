@@ -28,7 +28,7 @@
       url: https://chat.openai.com/
       description: 基於 GPT 模型的 AI 交流平台，文章撰寫、翻譯、靈感利器；適合作為啟發你想法的導師，但對其回答應保持懷疑    
 
-- taxonomy: Note Taking 筆記軟體
+- taxonomy: 筆記軟體
   icon: fa-newspaper-o
   links: 
     - title: Notion
@@ -83,57 +83,99 @@
       links:
         - title: Slack
           logo: assets/images/logos/Pttrns.png
-          url: https://www.pttrns.com/
+          url: https://slack.com/
           description: 全球最通用的辦公軟體，特色是 Channel & Thread，第三方插件豐富
         - title: Lark
           logo: assets/images/logos/CollectUI.png
-          url: http://collectui.com/
+          url: https://www.larksuite.com
           description: 飛書的國際版，字節開發的辦公軟體，對話窗體驗接近一般聊天，很絲滑；Lark Docs 是畢生體驗最好的線上文檔
         - title: Spark
           logo: assets/images/logos/uiuigreat.png
-          url: http://ui.uigreat.com/
+          url: https://sparkmailapp.com/
           description: 多賬號 Email、智慧型資料夾，付費版有 AI 讀寫功能，唯一推薦的 Mail APP
-      
-- taxonomy: 素材资源
+    
+    - term: 線上會議
+      links:
+        - title: Zoom
+          logo: assets/images/logos/Pttrns.png
+          url: https://zoom.us
+          description: 視訊會議平台，穩定的誇裝置會議品質、出辦公外也適合線上研討會、即時群組訊息等功能
+        - title: Voov 騰訊會議
+          logo: assets/images/logos/CollectUI.png
+          url: https://voovmeeting.com
+          description: 適用於中國地區的會議軟體，界面功能和 Zoom 相仿，有點是中文的實時字幕
+        - title: Google Meet
+          logo: assets/images/logos/uiuigreat.png
+          url: https://meet.google.com/
+          description: Google 線上會議，優點是網頁即可開啟、啟動速度快且易和 Google 文件同步使用。免費賬號單次會議限制 1 小時
+
+- taxonomy: 生產力
   icon: fa-thumbs-up
   list: 
-    - term: 生產力工具
+    - term: Mac 必備
       links:
         - title: Setapp
           logo: assets/images/logos/Iconfinder.png
           url: https://setapp.com/
           description: 月付 $10 享受上百種 Apple 生態付費 APP，必備 TextSniper、Bartender、Cleanshot、Betterzip、Movist Pro
+        - title: Raycast
+          logo: assets/images/logos/iconarchive.png
+          url: https://www.raycast.com/
+          description: 萬能版 Spotlight，客製化短語、網頁開啟及搜索，Mac 用戶必備的效率工具
+        - title: TextSniper
+          logo: assets/images/logos/iconarchive.png
+          url: https://setapp.com/apps/textsniper
+          description: Mac OCR，截圖方式快速複製圖片文字，只支援英文辨識，複製影片中文字非常好用
         - title: Cleanshot
           logo: assets/images/logos/iconfont.png
-          url: http://www.iconfont.cn/
+          url: https://cleanshot.com/features
           description: 最美且功能齊全的截圖、錄屏軟體，特色是自動生成的漸層背景
         - title: Xnip
           logo: assets/images/logos/iconmonstr.png
-          url: https://iconmonstr.com/
+          url: https://zh.xnipapp.com/
           description: 免費、直覺、高效、適合所有 Mac 用戶的截圖軟體
-        - title: Raycast
-          logo: assets/images/logos/iconarchive.png
-          url: http://www.iconarchive.com/
-          description: 萬能版 Spotlight，客製化短語、網頁開啟及搜索，Mac 用戶必備的效率工具
       
     - term: AI Tool
       links:
         - title: ChatGPT
           logo: assets/images/logos/iconsfeed.png
-          url: http://www.iconsfeed.com/
+          url: https://chat.openai.com/
           description: OpenAI 打造，帶火 AI 概念的聊天界面語言模型，結合 Code Intepreter , Extension 能輔助人快速理解複雜的資訊，超有耐心的導師。 prompt 建議加上 "explain it step by step "
         - title: Monica
           logo: assets/images/logos/iosicongallery.png
-          url: http://iosicongallery.com/
+          url: https://monica.im/
           description: 桌面版 AI 聊天機器人，結合快捷鍵的操作更顯直覺，免費版一天訊息數有限
         - title: Recraft
           logo: assets/images/logos/worldvectorlogo.png
-          url: https://worldvectorlogo.com/
+          url: https://www.recraft.ai/
           description: 文字生向量圖的 AI 線上工具，算圖免費且可商業使用
         - title: Bing Chat
           logo: assets/images/logos/InstantLogoSearch.png
-          url: http://instantlogosearch.com/
+          url: https://www.bing.com/search
           description: 整合在 Edge 瀏覽器中的 ChatGPT，特色是聯網且能直接調用 GPT4 模型
+
+    - term: 瀏覽器
+      links:
+        - title: Chrome
+          url: https://sketchapp.com/
+          logo: assets/images/logos/Sketch.png
+          description: Google 開發全世界用戶佔比 66% 瀏覽器，插件豐富且兼容程度高，缺點是多視窗載入時，載入速度明顯卡
+        - title: Arb Browser
+          url: http://utom.design/measure/
+          logo: assets/images/logos/SketchMeasure.png
+          description: 2022 爆火的新瀏覽器，搜尋、視窗管理、分頁模式等最人性化使用體驗，有邀請碼才可使用
+        - title: Edge
+          url: https://www.sketchappsources.com/
+          logo: assets/images/logos/sketchappsources.png
+          description: Microsoft 推出瀏覽器，優點是比 Chrome 更輕量、多網頁時載入更快，最大特色是整合 OpenAI 推出的 Bing Chat
+        - title: Brave
+          url: http://www.sketch.im/
+          logo: assets/images/logos/sketchIm.png
+          description: 主打無廣告、隱私優先、內建錢包的瀏覽器，深受注重隱私體驗的用戶喜愛
+        - title: Safari
+          url: http://sketchhunt.com/
+          logo: assets/images/logos/sketchhunt.png
+          description: Apple 原生瀏覽器
 
     - term: 瀏覽器插件
       links:
@@ -164,30 +206,7 @@
           logo: assets/images/logos/yrucd.png
           url: https://www.yrucd.com/
           description: 2FA 驗證器，支援多裝置同步、雲端備份
-      
-    - term: 瀏覽器
-      links:
-        - title: Chrome
-          url: https://sketchapp.com/
-          logo: assets/images/logos/Sketch.png
-          description: Google 開發全世界用戶佔比 66% 瀏覽器，插件豐富且兼容程度高，缺點是多視窗載入時，載入速度明顯卡
-        - title: Arb Browser
-          url: http://utom.design/measure/
-          logo: assets/images/logos/SketchMeasure.png
-          description: 2022 爆火的新瀏覽器，搜尋、視窗管理、分頁模式等最人性化使用體驗，有邀請碼才可使用
-        - title: Edge
-          url: https://www.sketchappsources.com/
-          logo: assets/images/logos/sketchappsources.png
-          description: Microsoft 推出瀏覽器，優點是比 Chrome 更輕量、多網頁時載入更快，最大特色是整合 OpenAI 推出的 Bing Chat
-        - title: Brave
-          url: http://www.sketch.im/
-          logo: assets/images/logos/sketchIm.png
-          description: 主打無廣告、隱私優先、內建錢包的瀏覽器，深受注重隱私體驗的用戶喜愛
-        - title: Safari
-          url: http://sketchhunt.com/
-          logo: assets/images/logos/sketchhunt.png
-          description: Apple 原生瀏覽器
-          
+                
     - term: 影音製作
       links:
         - title: Final Cut Pro
