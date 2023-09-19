@@ -229,172 +229,105 @@
 - taxonomy: 學習資源
   icon: fa-pencil
   list: 
-    - term: 设计规范
+    - term: 生產力 工具教學 KOL
       links:
-        - title: Design Guidelines
-          url: http://designguidelines.co/
+        - title: Papaya 電腦教室
+          url: 
           logo: assets/images/logos/designguidelines.png
-          description: Design Guidelines &mdash; The way products are built.
-        - title: Awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
+          description: 華語圈工具大神，沒有之一。影片全程乾貨，案例教學且能清楚解釋界面、功能的邏輯關係，常用電腦辦公務必在他頻道挖寶
+        - title: Jeff Su
+          url: 
           logo: assets/images/logos/awesome_design_systems.png
-          description:  A collection of awesome design systems
-        - title: Material Design
+          description:  Google 產品行銷經理，高效工作技巧、軟體應用、ChatGPT 使用方法，邏輯清晰且有明確案例分享，極推薦
+        - title: Topbook
           url: https://material.io/guidelines/
           logo: assets/images/logos/Material_Design.png
-          description: Introduction - Material Design
-        - title: Human Interface Guidelines
+          description: 筆記軟體測評博主，適合想深度挖掘 Notin 等協作工具潛力的用戶，因為內容較長且豐富，反而初學者容易懵
+        - title: 泛科學院
           url: https://developer.apple.com/ios/human-interface-guidelines
           logo: assets/images/logos/human_interface_guidelines.png
-          description: Human Interface Guidelines iOS
-        - title: Photoshop Etiquette
-          url: http://viggoz.com/photoshopetiquette/
-          logo: assets/images/logos/photoshopetiquette.png
-          description: PS礼仪-WEB设计指南
-
+          description: AI 工具教學，團隊來自多年科技報導經驗的泛科學團隊，教學案例明確且任何人都能按步奏快速上手
       
-    - term: 视频教程
+    - term: 寫作社區
       links:
-        - title: Photoshop Lady
+        - title: 少數派
           url: http://www.photoshoplady.com/
           logo: assets/images/logos/PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place
-        - title: doyoudo
+          description: 專注於如何更好的用數位產品，效率工作和生活的寫作社區
+        - title: 人人都是產品經理
           url: http://doyoudo.com/
           logo: assets/images/logos/doyoudo.png
-          description: 创意设计软件学习平台
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: assets/images/logos/web_ui_tutorial.png
-          description: WEB UI免费视频公开课
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: assets/images/logos/imooc.png
-          description: 程序员的梦工厂（有UI课程）
+          description: 內容圍繞產品、運營、行銷等商業案例的觀念分享
         
-    - term: 设计文章
+    - term: 新聞媒體
       links:
-        - title: 优设网
+        - title: 報導者
           url: http://www.uisdc.com/
           logo: assets/images/logos/uisdc.png
-          description: 设计师交流学习平台
-        - title: Web Design Ledger
+          description: 報導者以完全無廣告，向讀者募款的方式維持運營，致力於深度的完整調查
+        - title: 端傳媒
           url: https://webdesignledger.com
           logo: assets/images/logos/webdesignledger.png
-          description: Web Design Blog
-        - title: Medium
+          description: 創立於香港，以原創調查報導和數據新聞為特色，APP 和網站的操作及閱讀體驗非常好
+        - title: 關鍵評論網
           url: https://medium.com/
           logo: assets/images/logos/medium.png
-          description: Read, write and share stories that matter
+          description: 鍾子偉、楊士範創立的台灣媒體集團，定位是「 獨立評論媒體 」領域涵蓋科技、國際、體育等版圖，官方 Youtube 的專題報導也是推薦的訊息源
 
-    - term: 设计电台
+    - term: Podcast / 音頻學習
       links:
-        - title: UX Coffee
+        - title: Dedap 得到
           url: http://uxcoffee.co/
           logo: assets/images/logos/uxcoffee.png
-          description: 《UX Coffee 设计咖》是一档关于用户体验的播客节目。我们邀请来自硅谷和国内的学者和职人来聊聊「产品设计」、「用户体验」和「个人成长」。
-        - title: Anyway.FM
+          description: 中文區質量和知識密度最高的平台，產品、商業、投資等富有實績專家，再聯合得到內容團隊，打磨出最精煉的文字，得到頭條更是能讓你每天拓展認知邊界的必聽欄目
+        - title: Snip APP
           url: https://anyway.fm/
           logo: assets/images/logos/anyway.png
-          description: 设计杂谈 • UI 设计师 JJ 和 Leon 主播的设计播客
-        - title: 异能电台
-          url: https://www.yineng.fm
-          logo: assets/images/logos/yineng.png
-          description: 将全宇宙设计师的故事讲给你听。
+          description: 結合 AI 自動生成段落、字幕實時滾動的 Podcast APP
 
-    - term: 交互设计
+    - term: 社群媒體
       links:
-        - title: Little Big Details
+        - title: Telegram
           url: http://littlebigdetails.com/
           logo: assets/images/logos/littlebigdetails.png
-          description: Little Big Details is a curated collection of the finer details of design, updated every day. 
-        - title: Smashing Magazine
+          description: 月活超 2 億用戶的通訊軟體，除個人、群組聊天外，還有多種頻道、豐富的機器人插件，更是加密貨幣圈 ( CT ) 最愛用軟體
+        - title: Facebook 
           url: https://www.smashingmagazine.com/category/user-experience
           logo: assets/images/logos/smashingmagazine.png
-          description: Below you’ll find the best tips to take not only your UX design process but also the experiences you craft to the next level.
-        - title: nngroup
+          description: 全球超 20 億用戶的社軟體，平均使用年齡漸長
+        - title: X / Twitter
           url: https://www.nngroup.com/articles/
           logo: assets/images/logos/nngroup.png
-          description: Evidence-Based User Experience Research, Training, and Consulting
-        - title: Boxes and Arrows
+          description: 馬思克更名為 X。發文有限制字數的 Thread，平台特色是活躍的政治人物、知識份子和資深投資者的洞見分享
+        - title: LINE
           url: http://boxesandarrows.com/
           logo: assets/images/logos/boxesandarrows.png
-          description: Boxes and Arrows is devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business. 
-        - title: UX Design Weekly
+          description: 東亞區除中國外，用戶數最大的通訊軟體，除訊息外版圖橫跨支付、購物、旅遊等服務
+        - title: Discord
           url: http://uxdesignweekly.com/
           logo: assets/images/logos/uxdesignweekly.png
-          description:  get a hand picked list of the best user experience design links every week. 
-        - title: UX Ren
-          url: http://uxren.cn/
-          logo: assets/images/logos/uxren.png
-          description: 用户体验人的专业社区
+          description:  包含頻道、角色、機器人等多元工具的社群軟體，更適合遊戲玩家、同好者、適合有劃分多主題討論需求的群體
 
-
-
-- taxonomy: UED团队
+- taxonomy: 部落格工具
   icon: fa-user
   links: 
-    - title: Airbnb Design
+    - title: Medium
       url: https://airbnb.design
       logo: assets/images/logos/AirbnbDesign.png
-      description: Airbnb Design
-    - title: Facebook Design
+      description: 寫作、後台編輯體驗最好的部落格平台，沒有之一；缺點是免費有閱讀數限制，客製化個人 Publication 需付費
+    - title: Wordpress
       url: http://facebook.design/
       logo: assets/images/logos/FacebookDesign.png
-      description: Facebook Design
-    - title: Google Design
+      description: 全世界 40% 以上網站使用 Wordpress 構建，適合部落格、電商、官網等任何類型網站
+    - title: Ghost
       url: https://design.google/
       logo: assets/images/logos/GoogleDesign.png
-      description: Google Design
-    - title: eico design
+      description: 開源的部落格主題，最大特色是後台編輯體驗接近 Medium 登記；且可自定義網頁結構、主題、網域及訂閱管理，使用 Ghost 官方託管一個月價錢是 $10 USD
+    - title: Substack
       url: http://eicodesign.com/
       logo: assets/images/logos/eico.png
-      description: 数字化咨询与产品专家
-    - title: nice design
+      description: 主打電子報訂閱的創作平台，各大文字、電子報創作者的首選，用戶多為付費訂閱模式
+    - title: Mirror
       url: http://www.niceui.cn/
       logo: assets/images/logos/niceui.png
-      description: nicedesign奈思设计是领先的用户体验设计与互联网品牌建设公司
-    - title: 腾讯CDC
-      url: http://cdc.tencent.com/
-      logo: assets/images/logos/cdc.png
-      description: 腾讯CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。
-    - title: TGideas
-      url: http://tgideas.qq.com/
-      logo: assets/images/logos/tgideas.png
-      description: TGideas隶属于腾讯公司互动娱乐业务系统的专业推广类设计团队
-    - title: ISUX
-      url: https://isux.tencent.com/
-      logo: assets/images/logos/isux.png
-      description: 腾讯社交用户体验设计部
-    - title: MXD
-      url: http://mxd.tencent.com/
-      logo: assets/images/logos/mxd.png
-      description: 腾讯MIG无线互联网事业群设计团队
-    - title: Aliued
-      url: http://www.aliued.com/
-      logo: assets/images/logos/aliued.png
-      description: 阿里巴巴国际UED团队
-    - title: U一点
-      url: http://www.aliued.cn/
-      logo: assets/images/logos/aliuedcn.png
-      description: 阿里巴巴（中国站）用户体验设计部博客U一点设计 UED团队
-    - title: 网易uedc
-      url: http://uedc.163.com/
-      logo: assets/images/logos/uedc.png
-      description: 网易用户体验设计中心（User Experience Design Center）
-    - title: 百度用户体验中心
-      url: http://ued.baidu.com/
-      logo: assets/images/logos/uedbaidu.png
-      description: 百度用户体验中心
-    - title: 京东设计中心
-      url: http://jdc.jd.com/
-      logo: assets/images/logos/JDC.png
-      description: 京东设计中心
-    - title: 百度企业产品用户体验中心
-      url: http://eux.baidu.com/
-      logo: assets/images/logos/euxbaidu.png
-      description: 百度企业产品用户体验中心
-    - title: 携程设计委员会
-      url: http://ued.ctrip.com/
-      logo: assets/images/logos/ctrip.png
-      description: 携程设计委员会-Ctrip Design Committee
+      description: 文章永久儲存、前端美觀簡潔、接近 Medium 的使用體驗。缺點是平台不會主動推薦，平台引流效果極小，依賴作者本身流量
