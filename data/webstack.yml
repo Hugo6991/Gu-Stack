@@ -75,37 +75,37 @@
     - term: 行事曆
       links:
         - title: Cron
-          logo: assets/images/logos/producthunt.png
+          logo: assets/images/logos/cron-cal.png
           url: https://cron.com/
           description: 操作直覺、框選時間體驗流暢的行事曆，喜歡支持 markdown 的記錄方式；該團隊已被 Notion 收購，整合至其生態中
       
     - term: 商務訊息
       links:
         - title: Slack
-          logo: assets/images/logos/Pttrns.png
+          logo: assets/images/logos/slack.png
           url: https://slack.com/
           description: 全球最通用的辦公軟體，特色是 Channel & Thread，第三方插件豐富
         - title: Lark
-          logo: assets/images/logos/CollectUI.png
+          logo: assets/images/logos/lark.png
           url: https://www.larksuite.com
           description: 飛書的國際版，字節開發的辦公軟體，對話窗體驗接近一般聊天，很絲滑；Lark Docs 是畢生體驗最好的線上文檔
         - title: Spark
-          logo: assets/images/logos/uiuigreat.png
+          logo: assets/images/logos/Spark.png
           url: https://sparkmailapp.com/
           description: 多賬號 Email、智慧型資料夾，付費版有 AI 讀寫功能，唯一推薦的 Mail APP
     
     - term: 線上會議
       links:
         - title: Zoom
-          logo: assets/images/logos/Pttrns.png
+          logo: assets/images/logos/Zoom.png
           url: https://zoom.us
           description: 視訊會議平台，穩定的誇裝置會議品質、出辦公外也適合線上研討會、即時群組訊息等功能
         - title: Voov 騰訊會議
-          logo: assets/images/logos/CollectUI.png
+          logo: assets/images/logos/voov meeting.png
           url: https://voovmeeting.com
           description: 適用於中國地區的會議軟體，界面功能和 Zoom 相仿，有點是中文的實時字幕
         - title: Google Meet
-          logo: assets/images/logos/uiuigreat.png
+          logo: assets/images/logos/Google meet.png
           url: https://meet.google.com/
           description: Google 線上會議，優點是網頁即可開啟、啟動速度快且易和 Google 文件同步使用。免費賬號單次會議限制 1 小時
 
@@ -115,42 +115,42 @@
     - term: Mac 必備
       links:
         - title: Setapp
-          logo: assets/images/logos/Iconfinder.png
+          logo: assets/images/logos/setapp.png
           url: https://setapp.com/
           description: 月付 $10 享受上百種 Apple 生態付費 APP，必備 TextSniper、Bartender、Cleanshot、Betterzip、Movist Pro
         - title: Raycast
-          logo: assets/images/logos/iconarchive.png
+          logo: assets/images/logos/raycast.png
           url: https://www.raycast.com/
           description: 萬能版 Spotlight，客製化短語、網頁開啟及搜索，Mac 用戶必備的效率工具
         - title: TextSniper
-          logo: assets/images/logos/iconarchive.png
+          logo: assets/images/logos/textsniper.png
           url: https://setapp.com/apps/textsniper
           description: Mac OCR，截圖方式快速複製圖片文字，只支援英文辨識，複製影片中文字非常好用
         - title: Cleanshot
-          logo: assets/images/logos/iconfont.png
+          logo: assets/images/logos/cleanshot.png
           url: https://cleanshot.com/features
           description: 最美且功能齊全的截圖、錄屏軟體，特色是自動生成的漸層背景
         - title: Xnip
-          logo: assets/images/logos/iconmonstr.png
+          logo: assets/images/logos/xnip.png
           url: https://zh.xnipapp.com/
           description: 免費、直覺、高效、適合所有 Mac 用戶的截圖軟體
       
     - term: AI Tool
       links:
         - title: ChatGPT
-          logo: assets/images/logos/iconsfeed.png
+          logo: assets/images/logos/chatgpt.png
           url: https://chat.openai.com/
           description: OpenAI 打造，帶火 AI 概念的聊天界面語言模型，結合 Code Intepreter , Extension 能輔助人快速理解複雜的資訊，超有耐心的導師。 prompt 建議加上 "explain it step by step "
         - title: Monica
-          logo: assets/images/logos/iosicongallery.png
+          logo: assets/images/logos/monica.png
           url: https://monica.im/
           description: 桌面版 AI 聊天機器人，結合快捷鍵的操作更顯直覺，免費版一天訊息數有限
         - title: Recraft
-          logo: assets/images/logos/worldvectorlogo.png
+          logo: assets/images/logos/recraft.png
           url: https://www.recraft.ai/
           description: 文字生向量圖的 AI 線上工具，算圖免費且可商業使用
         - title: Bing Chat
-          logo: assets/images/logos/InstantLogoSearch.png
+          logo: assets/images/logos/bingchat.png
           url: https://www.bing.com/search
           description: 整合在 Edge 瀏覽器中的 ChatGPT，特色是聯網且能直接調用 GPT4 模型
 
@@ -158,72 +158,72 @@
       links:
         - title: Chrome
           url: https://sketchapp.com/
-          logo: assets/images/logos/Sketch.png
+          logo: assets/images/logos/chrome.png
           description: Google 開發全世界用戶佔比 66% 瀏覽器，插件豐富且兼容程度高，缺點是多視窗載入時，載入速度明顯卡
-        - title: Arb Browser
+        - title: Arc Browser
           url: http://utom.design/measure/
-          logo: assets/images/logos/SketchMeasure.png
+          logo: assets/images/logos/arc-borwser.png
           description: 2022 爆火的新瀏覽器，搜尋、視窗管理、分頁模式等最人性化使用體驗，有邀請碼才可使用
         - title: Edge
           url: https://www.sketchappsources.com/
-          logo: assets/images/logos/sketchappsources.png
+          logo: assets/images/logos/edge.png
           description: Microsoft 推出瀏覽器，優點是比 Chrome 更輕量、多網頁時載入更快，最大特色是整合 OpenAI 推出的 Bing Chat
         - title: Brave
           url: http://www.sketch.im/
-          logo: assets/images/logos/sketchIm.png
+          logo: assets/images/logos/Brave.png
           description: 主打無廣告、隱私優先、內建錢包的瀏覽器，深受注重隱私體驗的用戶喜愛
         - title: Safari
           url: http://sketchhunt.com/
-          logo: assets/images/logos/sketchhunt.png
+          logo: assets/images/logos/safari.png
           description: Apple 原生瀏覽器
 
     - term: 瀏覽器插件
       links:
         - title: Glarity
-          logo: assets/images/logos/freepik.png
-          url: https://www.freepik.com/
+          logo: assets/images/logos/glarity.png
+          url: chrome.google.com/webstore/detail/chatgpt-glarity-summarize/cmnlolelipjlhfkhpohphpedmkfbobjc/related?hl=zh-tw
           description: AI 摘要插件，搜尋、影片、文章皆自動生成摘要回復
         - title: 沉浸式翻譯
-          logo: assets/images/logos/wallhalla.png
-          url: https://wallhalla.com/
+          logo: assets/images/logos/immersivetranslate.png
+          url: https://immersivetranslate.com/
           description: 最多客製化選擇的翻譯插件，必須用它取代 Google 翻譯
         - title: Glasp
-          logo: assets/images/logos/365PSD.png
-          url: https://365psd.com/
+          logo: assets/images/logos/glasp.png
+          url: https://glasp.co/
           description: 主打社交閱讀的網頁重點標記插件，看到別人最近讀了什麼、啟發段落、個人筆記
       
     - term: 賬號管理
       links:
         - title: Enpass
-          logo: assets/images/logos/freebiesbug.png
-          url: https://freebiesbug.com/
+          logo: assets/images/logos/enpass.png
+          url: https://www.enpass.io/
           description: 老牌密碼管理器，年付 $20 USD
         - title: 1password
-          logo: assets/images/logos/freebiesupply.png
-          url: https://freebiesupply.com/
+          logo: assets/images/logos/1password.png
+          url: https://1password.com/
           description: 估值 20 億美元，全球用戶數第一的密碼管理器，個人方案月付 $3 USD；也適合團隊管理賬號權限
         - title: Authy
-          logo: assets/images/logos/yrucd.png
-          url: https://www.yrucd.com/
+          logo: assets/images/logos/authy.png
+          url: https://authy.com/
           description: 2FA 驗證器，支援多裝置同步、雲端備份
                 
     - term: 影音製作
       links:
         - title: Final Cut Pro
-          url: https://fonts.google.com/
-          logo: assets/images/logos/googlefont.png
+          url: https://www.apple.com/tw/final-cut-pro/
+          logo: assets/images/logos/finlacutpro.png
           description: Mac 系統原生剪輯軟體，導入素材、自動存檔、插件生態豐富，若無複雜動畫需求會比 Premiere 還容易上手
         - title: Priemer Pro
           url: https://typekit.com/
-          logo: assets/images/logos/typekit.png
+          logo: assets/images/logos/pr.png
           description: Adoba 系列剪輯軟體，強大在整合 AI、AE 等軟體的聯動功能，能實現 95% 以上的複雜剪輯。上手和精通稍有門檻
-        - title: 剪放 CapCut
+        - title: 剪映 CapCut
           url: http://www.foundertype.com/
-          logo: assets/images/logos/Fondertype.png
+          logo: assets/images/logos/capcut.png
           description: 抖音母公司字節跳動開發，最容易上手的剪輯軟體，內建特效、AI 語音辨識、轉場功能，最推薦入門剪輯的 APP
         - title: Keynote
-          url: 
-          logo:
+          url: https://www.apple.com/tw/keynote/
+          logo: assets/images/logos/keynote.png
           description: Mac 簡報軟體，利用神奇移動能也能做出流暢、高質感動畫
 
 - taxonomy: 學習資源
@@ -252,82 +252,82 @@
       links:
         - title: 少數派
           url: http://www.photoshoplady.com/
-          logo: assets/images/logos/PhotoshopLady.png
+          logo: assets/images/logos/sspai.png
           description: 專注於如何更好的用數位產品，效率工作和生活的寫作社區
         - title: 人人都是產品經理
           url: http://doyoudo.com/
-          logo: assets/images/logos/doyoudo.png
+          logo: assets/images/logos/pm.png
           description: 內容圍繞產品、運營、行銷等商業案例的觀念分享
         
     - term: 新聞媒體
       links:
         - title: 報導者
-          url: http://www.uisdc.com/
-          logo: assets/images/logos/uisdc.png
+          url: https://www.twreporter.org/
+          logo: assets/images/logos/the-repoter.png
           description: 報導者以完全無廣告，向讀者募款的方式維持運營，致力於深度的完整調查
         - title: 端傳媒
-          url: https://webdesignledger.com
-          logo: assets/images/logos/webdesignledger.png
+          url: https://theinitium.com/
+          logo: assets/images/logos/Initium Media.png
           description: 創立於香港，以原創調查報導和數據新聞為特色，APP 和網站的操作及閱讀體驗非常好
         - title: 關鍵評論網
-          url: https://medium.com/
-          logo: assets/images/logos/medium.png
+          url: https://www.thenewslens.com/
+          logo: assets/images/logos/thenewslens.png
           description: 鍾子偉、楊士範創立的台灣媒體集團，定位是「 獨立評論媒體 」領域涵蓋科技、國際、體育等版圖，官方 Youtube 的專題報導也是推薦的訊息源
 
     - term: Podcast / 音頻學習
       links:
-        - title: Dedap 得到
-          url: http://uxcoffee.co/
-          logo: assets/images/logos/uxcoffee.png
+        - title: Dedao 得到
+          logo: assets/images/logos/dedao.png
+          url: https://www.dedao.cn/
           description: 中文區質量和知識密度最高的平台，產品、商業、投資等富有實績專家，再聯合得到內容團隊，打磨出最精煉的文字，得到頭條更是能讓你每天拓展認知邊界的必聽欄目
         - title: Snip APP
-          url: https://anyway.fm/
-          logo: assets/images/logos/anyway.png
+          url: https://www.snipd.com/
+          logo: assets/images/logos/snip-podcast-app.png
           description: 結合 AI 自動生成段落、字幕實時滾動的 Podcast APP
 
     - term: 社群媒體
       links:
         - title: Telegram
-          url: http://littlebigdetails.com/
-          logo: assets/images/logos/littlebigdetails.png
+          url: https://telegram.org/
+          logo: assets/images/logos/telegram.png
           description: 月活超 2 億用戶的通訊軟體，除個人、群組聊天外，還有多種頻道、豐富的機器人插件，更是加密貨幣圈 ( CT ) 最愛用軟體
         - title: Facebook 
-          url: https://www.smashingmagazine.com/category/user-experience
-          logo: assets/images/logos/smashingmagazine.png
+          url: https://www.facebook.com/
+          logo: assets/images/logos/fb.png
           description: 全球超 20 億用戶的社軟體，平均使用年齡漸長
         - title: X / Twitter
-          url: https://www.nngroup.com/articles/
-          logo: assets/images/logos/nngroup.png
+          url: https://twitter.com/
+          logo: assets/images/logos/x.png
           description: 馬思克更名為 X。發文有限制字數的 Thread，平台特色是活躍的政治人物、知識份子和資深投資者的洞見分享
         - title: LINE
-          url: http://boxesandarrows.com/
-          logo: assets/images/logos/boxesandarrows.png
+          url: https://line.me/
+          logo: assets/images/logos/line.png
           description: 東亞區除中國外，用戶數最大的通訊軟體，除訊息外版圖橫跨支付、購物、旅遊等服務
         - title: Discord
-          url: http://uxdesignweekly.com/
-          logo: assets/images/logos/uxdesignweekly.png
+          url: https://discord.com/
+          logo: assets/images/logos/discord.png
           description:  包含頻道、角色、機器人等多元工具的社群軟體，更適合遊戲玩家、同好者、適合有劃分多主題討論需求的群體
 
 - taxonomy: 部落格工具
   icon: fa-user
   links: 
     - title: Medium
-      url: https://airbnb.design
-      logo: assets/images/logos/AirbnbDesign.png
+      url: https://medium.com/
+      logo: assets/images/logos/medium.png
       description: 寫作、後台編輯體驗最好的部落格平台，沒有之一；缺點是免費有閱讀數限制，客製化個人 Publication 需付費
     - title: Wordpress
-      url: http://facebook.design/
-      logo: assets/images/logos/FacebookDesign.png
+      url: https://www.wordpress.com/
+      logo: assets/images/logos/wordpress.png
       description: 全世界 40% 以上網站使用 Wordpress 構建，適合部落格、電商、官網等任何類型網站
     - title: Ghost
-      url: https://design.google/
-      logo: assets/images/logos/GoogleDesign.png
+      url: https://ghost.org/
+      logo: assets/images/logos/ghost.png
       description: 開源的部落格主題，最大特色是後台編輯體驗接近 Medium 登記；且可自定義網頁結構、主題、網域及訂閱管理，使用 Ghost 官方託管一個月價錢是 $10 USD
     - title: Substack
-      url: http://eicodesign.com/
-      logo: assets/images/logos/eico.png
+      url: https://substack.com/
+      logo: assets/images/logos/substack.png
       description: 主打電子報訂閱的創作平台，各大文字、電子報創作者的首選，用戶多為付費訂閱模式
     - title: Mirror
-      url: http://www.niceui.cn/
-      logo: assets/images/logos/niceui.png
+      url: https://mirror.xyz/hugok.eth
+      logo: assets/images/logos/mirror.png
       description: 文章永久儲存、前端美觀簡潔、接近 Medium 的使用體驗。缺點是平台不會主動推薦，平台引流效果極小，依賴作者本身流量
