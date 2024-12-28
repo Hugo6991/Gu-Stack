@@ -153,6 +153,14 @@
           logo: assets/images/logos/bingchat.png
           url: https://www.bing.com/search
           description: 整合在 Edge 瀏覽器中的 ChatGPT，特色是聯網且能直接調用 GPT4 模型
+        - title: Perplexity
+          logo: assets/images/logos/perplexity.png
+          url: https://perplexity.ai/
+          description: Perplexity 相對 ChatGPT 優勢在於能即時搜索網路、總結資訊並提供來源引用，回復更即時，還可通過截圖進行視覺搜尋和資訊提取。
+        - title: Claude 
+          logo: assets/images/logos/claude.png
+          url: https://www.anthropic.com/
+          description: Anthropic 公司推出的 AI 聊天機器人，優勢在於能夠提供更專業、更準確的回覆，並且能夠更好地理解用戶的需求和問題。
 
     - term: 瀏覽器
       links:
@@ -206,7 +214,13 @@
           logo: assets/images/logos/authy.png
           url: https://authy.com/
           description: 2FA 驗證器，支援多裝置同步、雲端備份
-                
+    - term: 訊息記錄
+      links: 
+        - title: IFTTT
+          logo: 
+          url: https://ifttt.com/
+          description: 最簡易的自動化工具，自動化工具，讓應用和設備之間進行高效鏈接。綁定個人推特、Telegram 群組等，在指定條件下觸發特定行為。例如：當在 X 上 Like 特定推文時，將推文內容、自動帶有鏈接及發文人資訊傳送至指定 Telegram 群組
+
     - term: 影音製作
       links:
         - title: Final Cut Pro
