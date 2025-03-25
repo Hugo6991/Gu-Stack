@@ -28,13 +28,20 @@
       url: https://chat.openai.com/
       description: 基於 GPT 模型的 AI 交流平台，文章撰寫、翻譯、靈感利器；適合作為啟發你想法的導師，但對其回答應保持懷疑    
 - taxonomy: AI Agent 
-- icon: fa-robot
+  icon: fa-robot
   links: 
     - title: n8n
       logo: assets/images/logos/n8n.png
       url: https://n8n.io/
       description: 開源軟體，最代表性的自動化工作流 Agent，串接 Google Sheets、Telegram、Notion 等各種服務，透過新增節點的方式，定義輸出、輸出、預期完成的結果。上手需要門檻 ( 懂點 Java Script )，建議用第三方部署 Zeabur, Elestio 服務
     - title: Dify.ai
+      logo: 
+      url: https://dify.ai/
+      descriptions: 
+    - title: Coze
+      logo:
+      url: https://coze.ai/
+      descriptions:
 
 - taxonomy: 筆記軟體
   icon: fa-newspaper-o
