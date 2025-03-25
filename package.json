@@ -1,0 +1,12 @@
+{
+  "name": "gustack",
+  "version": "1.0.0",
+  "description": "Hugo 創建的常用工具庫，筆記、辦公、資訊源頭分享",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

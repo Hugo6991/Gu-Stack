@@ -27,6 +27,14 @@
       logo: assets/images/logos/chatgpt.png
       url: https://chat.openai.com/
       description: 基於 GPT 模型的 AI 交流平台，文章撰寫、翻譯、靈感利器；適合作為啟發你想法的導師，但對其回答應保持懷疑    
+- taxonomy: AI Agent 
+- icon: fa-robot
+  links: 
+    - title: n8n
+      logo: assets/images/logos/n8n.png
+      url: https://n8n.io/
+      description: 開源軟體，最代表性的自動化工作流 Agent，串接 Google Sheets、Telegram、Notion 等各種服務，透過新增節點的方式，定義輸出、輸出、預期完成的結果。上手需要門檻 ( 懂點 Java Script )，建議用第三方部署 Zeabur, Elestio 服務
+    - title: Dify.ai
 
 - taxonomy: 筆記軟體
   icon: fa-newspaper-o
@@ -158,7 +166,7 @@
           url: https://perplexity.ai/
           description: Perplexity 相對 ChatGPT 優勢在於能即時搜索網路、總結資訊並提供來源引用，回復更即時，還可通過截圖進行視覺搜尋和資訊提取。
         - title: Claude 
-          logo: assets/images/logos/claude.png
+          logo: assets/images/logos/Claude.png
           url: https://www.anthropic.com/
           description: Anthropic 公司推出的 AI 聊天機器人，優勢在於能夠提供更專業、更準確的回覆，並且能夠更好地理解用戶的需求和問題。
 
@@ -217,7 +225,7 @@
     - term: 訊息記錄
       links: 
         - title: IFTTT
-          logo: 
+          logo: assets/images/logos/ifttt.png
           url: https://ifttt.com/
           description: 最簡易的自動化工具，自動化工具，讓應用和設備之間進行高效鏈接。綁定個人推特、Telegram 群組等，在指定條件下觸發特定行為。例如：當在 X 上 Like 特定推文時，將推文內容、自動帶有鏈接及發文人資訊傳送至指定 Telegram 群組
 
@@ -246,19 +254,19 @@
     - term: 生產力 工具教學 KOL
       links:
         - title: Papaya 電腦教室
-          url: 
-          logo: assets/images/logos/designguidelines.png
+          url: https://www.youtube.com/@papayaclass
+          logo: assets/images/logos/Papaya.jpg
           description: 華語圈工具大神，沒有之一。影片全程乾貨，案例教學且能清楚解釋界面、功能的邏輯關係，常用電腦辦公務必在他頻道挖寶
         - title: Jeff Su
-          url: 
-          logo: assets/images/logos/awesome_design_systems.png
+          url: https://www.youtube.com/@JeffSu
+          logo: assets/images/logos/Jeff Su-youtube.jpg
           description:  Google 產品行銷經理，高效工作技巧、軟體應用、ChatGPT 使用方法，邏輯清晰且有明確案例分享，極推薦
         - title: Topbook
-          url: https://material.io/guidelines/
-          logo: assets/images/logos/Material_Design.png
+          url: https://www.youtube.com/c/Topbook/videos
+          logo: assets/images/logos/topbook.svg
           description: 筆記軟體測評博主，適合想深度挖掘 Notin 等協作工具潛力的用戶，因為內容較長且豐富，反而初學者容易懵
         - title: 泛科學院
-          url: https://developer.apple.com/ios/human-interface-guidelines
+          url: https://www.youtube.com/@panscischool
           logo: assets/images/logos/human_interface_guidelines.png
           description: AI 工具教學，團隊來自多年科技報導經驗的泛科學團隊，教學案例明確且任何人都能按步奏快速上手
       
@@ -269,7 +277,7 @@
           logo: assets/images/logos/sspai.png
           description: 專注於如何更好的用數位產品，效率工作和生活的寫作社區
         - title: 人人都是產品經理
-          url: http://doyoudo.com/
+          url: https://www.woshipm.com/
           logo: assets/images/logos/pm.png
           description: 內容圍繞產品、運營、行銷等商業案例的觀念分享
         

@@ -22,7 +22,19 @@ draft: false
 #### 如何更新網站內容
 
 1. 在本地端使用 Visual Code 用指令複製專案，按 ChatGPT 建議步驟輸入指令安裝套件 [推薦 Grimoire](https://chatgpt.com/g/g-n7Rs0IK86-grimoire)
-2. 
+2. 找到 "data" 資料夾，開啟 "webstack.yml" 修改網址資訊
+3. 使用 `git add .` 更新 Git 狀態並用 `git status` 檢查變更
+4. 使用 `git commit -m "update"` 提交變更
+5. 並用 `git push` 更新至 Github 
+
+</br>
+
+#### How to Imporve Website? 
+
+1. Update new site without coding ( implement n8n and telegram bot )
+2. How to get image / icon in more efficientway
+3. Integrate to my knowledge base
+
 
 </br>
 
