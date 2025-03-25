@@ -12,7 +12,7 @@
       url: https://www.figma.com/
       description: 實時線上協作的 UI、UX 設計軟體，也適合簡單製圖和個人畫布，掌握 Auto Layout、Component、Plug-in 就贏 50% 以上的使用者
     - title: Notion
-      qrcode: assets/images/notion.png
+      url: https://www.notion.so/
       logo: assets/images/logos/notion.png
       description: 一站式任務管理、筆記軟體、生產力工具；適合小團隊專案、個人知識管理，學習資源推薦看少數派文章和課程
     - title: Youtube
